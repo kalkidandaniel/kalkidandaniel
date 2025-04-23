@@ -4,8 +4,8 @@
 
 <h5>I work as a Data Analyst </h5>
 
+<h5>🏢 LinkedIn ➡︎ <a href="https://www.linkedin.com/in/kalkidandaniel/" target="_blank">@kalkidandaniel</a></h5>
 
-<h5>🏢 LinkedIn ➡︎ [@kalkidandaniel](https://www.linkedin.com/in/kalkidandaniel/)</h5>
 
 <h5 align="left">Languages and Tools:</h5>
 
