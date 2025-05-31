@@ -3,7 +3,7 @@
 <h4>Hey, my name is Kalkidan Daniel 👋</h4>
 
 <h5>I work as a Data Analyst </h5>
-
+<h6>Curious and self-driven data analyst with hands-on experience analyzing coffee shop sales for a client project. Challenged myself through real-world projects across sales, healthcare, and marketing that shaped my analytical thinking.</h6>
 <h5>🏢 LinkedIn ➡︎ <a href="https://www.linkedin.com/in/kalkidandaniel/" target="_blank">@kalkidandaniel</a></h5>
 
 
