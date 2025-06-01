@@ -2,8 +2,8 @@
 
 <h4>Hey, my name is Kalkidan Daniel 👋</h4>
 
-<h5>I work as a Data Analyst </h5>
-<h6>Curious and self-driven data analyst with hands-on experience analyzing coffee shop sales for a client project. Challenged myself through real-world projects across sales, healthcare, and marketing that shaped my analytical thinking.</h6>
+<h5>Data Analyst | SQL, Excel, Tableau | Business & Sales Insights Specialist </h5>
+<h6>Curious and business-driven data analyst with real-world experience in coffee shop sales, inventory performance, and self-run product analytics. Skilled in SQL, Excel, and Tableau to deliver insights that drive operational efficiency and marketing ROI. Passionate about translating data into strategy for business growth.</h6>
 <h5>🏢 LinkedIn ➡︎ <a href="https://www.linkedin.com/in/kalkidandaniel/" target="_blank">@kalkidandaniel</a></h5>
 
 
