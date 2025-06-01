@@ -59,12 +59,7 @@
         <br>AWS
       </a>
     </td>
-      <td align="center" width="100">
-<!--       <a href="https://azure.microsoft.com/" target="_blank"> -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-        <br>Azure
-      </a>
-    </td>
+   
   </tr>
 </table>
 
